@@ -1,6 +1,4 @@
 # Custom-OCR-
-Custom Trained Yolo v3 model to find bounding boxes of Labelled Images of Aadhar Card. 
-Cropped the identified bounding boxes using OpenCV and extracted text from these images using Tesseract-OCR API.
 
 ## Aim of the project
 The main aim of this project was to automate the process of Aadhar verification by extracting the text details used for verification purpose from aadhar card mainly the Name, aadar no., Gender, Date of birth,etc.
@@ -8,8 +6,8 @@ The main aim of this project was to automate the process of Aadhar verification 
 ## What is OCR?
   OCR stands for Object Character Recognition. It is used for reafding the textual data from images. 
   OCR has two major building blocks:
-    **Text Detection
-    **Text Recognition
+    **Text Detection**
+    **Text Recognition**
     
 ## 1) Text Detection
    Major Steps Involved were:
