@@ -6,8 +6,8 @@ The main aim of this project was to automate the process of Aadhar verification 
 ## What is OCR?
   OCR stands for Object Character Recognition. It is used for reafding the textual data from images. 
   OCR has two major building blocks:
-    **Text Detection**
-    **Text Recognition**
+    1) **Text Detection**
+    2) **Text Recognition**
     
 ## 1) Text Detection
    Major Steps Involved were:
